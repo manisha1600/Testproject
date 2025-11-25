@@ -1,0 +1,4 @@
+# Test dependencies
+pytest>=7.0
+
+# No external runtime dependencies required — uses Python standard library only
